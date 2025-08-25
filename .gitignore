@@ -5,3 +5,4 @@ models/
 *.pyc
 test.ipynb
 *.pth
+mlp_ckpts/
