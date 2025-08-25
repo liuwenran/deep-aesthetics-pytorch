@@ -4,3 +4,4 @@ models/
 .mypy_cache/
 *.pyc
 test.ipynb
+*.pth
